@@ -22,3 +22,5 @@ In this project, you'll leverage Amazon Bedrock to create an intelligent documen
 - Develop Python scripts to interact with Bedrock and other AWS services
 - Understand how to integrate AI models with traditional data storage solutions
 - Learn to use Terraform for Infrastructure as Code (IaC) in AI projects
+
+![Completion](completion.png)
